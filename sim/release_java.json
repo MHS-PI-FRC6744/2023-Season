@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project 2_4_tankdrive_auto)",
+    "extensions": [
+      {
+        "name": "Sim DriverStation",
+        "libName": "C:\\Users\\6744 Admin\\Documents\\MHSPI\\2_4_tankdrive_auto\\build\\jni\\release\\halsim_ds_socket.dll",
+        "defaultEnabled": false
+      },
+      {
+        "name": "Sim GUI",
+        "libName": "C:\\Users\\6744 Admin\\Documents\\MHSPI\\2_4_tankdrive_auto\\build\\jni\\release\\halsim_gui.dll",
+        "defaultEnabled": true
+      }
+    ],
+    "environment": {},
+    "libraryDir": "C:\\Users\\6744 Admin\\Documents\\MHSPI\\2_4_tankdrive_auto\\build\\jni\\release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
